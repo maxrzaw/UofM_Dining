@@ -23,7 +23,6 @@ import UIKit
         }
     }
     
-    
     var heartSize: CGSize = CGSize(width: 36, height: 36)
     
     // MARK: Initialization

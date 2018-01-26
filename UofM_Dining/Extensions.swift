@@ -26,7 +26,6 @@ extension Notification.Name {
     
     static let todayAndTomorrowsMenuItemsHaveLoaded = Notification.Name("TodayAndTomorrowsMenuItemsHaveLoaded")
     
-    
     static let favoriteChanged = Notification.Name("FavoriteChangedNotification")
     
 }

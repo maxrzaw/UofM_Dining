@@ -45,7 +45,6 @@ class DiningLocationViewController: UIViewController, UITableViewDataSource, UIT
     var lowerBoundDate: Date!
     var selectedMenuSRI: MenuSearchResultItem?
     
-    
     // MARK: - View
     override func viewDidLoad() {
         super.viewDidLoad()

@@ -109,7 +109,6 @@ final class MenusProvider {
     }
     
     
-    
     // MARK: - Initializer
     private init() {
         initDiningLocations()

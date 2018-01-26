@@ -43,7 +43,6 @@ class MenuSearchTableViewController: UITableViewController, UISearchResultsUpdat
         dateFormatter.dateStyle = .short
     }
     
-    
     // MARK: - View
     override func viewWillAppear(_ animated: Bool) {
         setDateFormatter()

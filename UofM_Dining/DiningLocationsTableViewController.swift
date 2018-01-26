@@ -345,7 +345,6 @@ class DiningLocationsTableViewController: UITableViewController, CLLocationManag
      }
      */
     
-    
     // MARK: - Navigation
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
         
