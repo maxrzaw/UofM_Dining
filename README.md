@@ -1,2 +1,2 @@
-# ios-sample-repo
-Sample student repository for iOS final projects
+# U of M Dining
+Your new favorite dining app at Michigan
